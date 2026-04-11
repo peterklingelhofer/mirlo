@@ -318,7 +318,8 @@
     "tip": "Tip",
     "viewFulfillment": "View Fulfillment",
     "platformCut": "Platform cut",
-    "paymentProcessorCut": "Payment processor cut"
+    "paymentProcessorCut": "Payment processor cut",
+    "downloadSalesData": "Download sales data"
   },
   "fulfillment": {
     "artist": "Artist",
